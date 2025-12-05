@@ -1,4 +1,0 @@
-raph_interfaces/Led[<=143] leds
----
-bool success
-string status_message
