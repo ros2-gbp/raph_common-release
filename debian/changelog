@@ -1,0 +1,31 @@
+ros-jazzy-raph-description (1.1.0-1bookworm) bookworm; urgency=high
+
+  * fix: IMU frame orientation for upside-down camera setup (#16 <https://github.com/Rapha-Rover/rapha_common/issues/16>)
+  * feat: Add oak_stereo_camera_optical_frame to URDF (#14 <https://github.com/Rapha-Rover/rapha_common/issues/14>)
+  * Contributors: Błażej Sowa
+
+ -- Fictionlab <support@fictionlab.pl>  Wed, 25 Mar 2026 00:00:00 -0000
+
+ros-jazzy-raph-description (1.0.1-1bookworm) bookworm; urgency=high
+
+  * Urdf for simulation (#7 <https://github.com/Rapha-Rover/rapha_common/issues/7>)
+  * Contributors: Jan Hernas, Błażej Sowa
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 05 Dec 2025 00:00:00 -0000
+
+ros-jazzy-raph-description (1.0.0-1bookworm) bookworm; urgency=high
+
+  * Change all names to Raph (#6 <https://github.com/Rapha-Rover/rapha_common/issues/6>)
+  * Contributors: Jan Hernas
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 05 Dec 2025 00:00:00 -0000
+
+ros-jazzy-raph-description (0.0.1-1bookworm) bookworm; urgency=high
+
+  * Add new URDF file for Raph rover (#5 <https://github.com/Rapha-Rover/rapha_common/issues/5>)
+  * Initial version
+  * Contributors: Błażej Sowa, Jan Hernas
+
+ -- Fictionlab <support@fictionlab.pl>  Mon, 22 Jul 2024 00:00:00 -0000
+
+
