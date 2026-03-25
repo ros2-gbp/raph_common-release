@@ -1,0 +1,27 @@
+ros-jazzy-raph (1.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Wed, 25 Mar 2026 00:00:00 -0000
+
+ros-jazzy-raph (1.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 05 Dec 2025 00:00:00 -0000
+
+ros-jazzy-raph (1.0.0-1bookworm) bookworm; urgency=high
+
+  * Change all names to Raph (#6 <https://github.com/Rapha-Rover/rapha_common/issues/6>)
+  * Contributors: Jan Hernas
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 05 Dec 2025 00:00:00 -0000
+
+ros-jazzy-raph (0.0.1-1bookworm) bookworm; urgency=high
+
+  * Initial version
+  * Contributors: Błażej Sowa
+
+ -- Fictionlab <support@fictionlab.pl>  Mon, 22 Jul 2024 00:00:00 -0000
+
+
